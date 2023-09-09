@@ -36,3 +36,8 @@ If still you have any issue please email me or message me on linkedin;-
 
 
 
+![Screenshot 2023-09-10 at 03-59-41 MikkiAi Assignment](https://github.com/nipun221/firebase_app/assets/98182168/31c6336b-d90e-40fb-bdf8-c500d0fee6ce)
+![Screenshot 2023-09-10 at 03-59-50 MikkiAi Assignment](https://github.com/nipun221/firebase_app/assets/98182168/8e22792e-7465-44bb-ab67-1de0abfbd701)
+![Screenshot 2023-09-10 at 04-01-54 MikkiAi Assignment](https://github.com/nipun221/firebase_app/assets/98182168/f5cf89b5-4887-43ba-a006-dcf0334710a7)
+![Screenshot 2023-09-10 at 04-02-35 MikkiAi Assignment](https://github.com/nipun221/firebase_app/assets/98182168/5c571afa-d997-44d0-9224-873c6073674d)
+![Screenshot 2023-09-10 at 04-05-09 next-auth - Cloud Firestore - Firebase console](https://github.com/nipun221/firebase_app/assets/98182168/2c5eccc4-6ab3-4d5a-8014-5d3fb802bf7b)
