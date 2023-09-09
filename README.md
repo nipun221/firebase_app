@@ -1,4 +1,4 @@
-# Please let me know about the bugs, limitations and scope of improvements, This Review will be a great help
+# Please let me know about the bugs, limitations and scope of improvements if any
 
 ## Getting Started
 
