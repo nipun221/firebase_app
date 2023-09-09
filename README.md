@@ -2,33 +2,37 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+### open your favourite terminal and enter these commands
+-> git clone https://github.com/nipun221/firebase_app.git
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+-> npm install autoprefixer axios body-parser cors dotenv express firebase openai react-router-dom postcss tailwindcss
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### If any dependencies remained unmentioned please check-out package.json
+To run this project with your own firebase configurations go inside firebase_app/src/app/firebase.js
+Then update firebaseConfig with your own that includes
+const firebaseConfig = {
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
+};
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+After that create .env file in firebase_app that is our root directory
+and update API_KEY with your OpenAI API Key and ORG_KEY with Organization Id;-
+API_KEY=
+ORG_KEY=
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+### make sure that project has node_modules folder and .next folder inside root directory
+After that-
+-> cd firebase_app
+### run following commands in separate terminals
+-> node index.js
+-> npm run dev
+### In case you have errors while running this project download whole project with every file required -https://drive.google.com/file/d/1K7xtixFQ5PUITG_F9B-ydpysca1dTPHU/view?usp=sharing
+If still you have any issue please email me or message me on linkedin;- 
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
