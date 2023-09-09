@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { UseUserAuth } from '../contexts/UserAuth';
 import { useRouter } from 'next/navigation';
-import Cookies from 'js-cookie';
 
 const Login = () => {
     const [email, setEmail] = useState('');
