@@ -5,7 +5,7 @@
 
       npm install autoprefixer axios body-parser cors dotenv express firebase openai react-router-dom postcss tailwindcss
 
-### If any dependencies remained unmentioned please check-out package.json
+### If any dependencies remained unmentioned please package.json file in root
 To run this project with your own firebase configurations go inside firebase_app/src/app/firebase.js
 Then update firebaseConfig with your own that includes
 
@@ -49,8 +49,7 @@ After that-
     npm run dev
 
 ### In case you have errors while running this project download whole project with every file required -https://drive.google.com/file/d/1K7xtixFQ5PUITG_F9B-ydpysca1dTPHU/view?usp=sharing
-
-If still you have any issue please email me at nipunvats5@gmail.com or message me on linkedin at in/nipun-vats-295524216;- 
+for further details email me at -> nipunvats5@gmail.com, nipunvats2001@gmail.com, 2oics072@gmail.com 
 
 
 
