@@ -1,5 +1,3 @@
-# Please let me know about the bugs, limitations and scope of improvements if any
-
 ## Getting Started
 
 ### open your favourite terminal and enter these commands
@@ -10,6 +8,7 @@
 ### If any dependencies remained unmentioned please check-out package.json
 To run this project with your own firebase configurations go inside firebase_app/src/app/firebase.js
 Then update firebaseConfig with your own that includes
+
 const firebaseConfig = {
   apiKey: "",
   authDomain: "",
